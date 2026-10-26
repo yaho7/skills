@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xcode Localization Guard"
+  short_description: "Prevent hardcoded UI strings and English-only locale placeholders"
+  default_prompt: "Use $xcode-localization-guard to update this Xcode change without introducing hardcoded user-facing strings or copying English into other locales."

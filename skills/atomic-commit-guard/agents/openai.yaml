@@ -1,0 +1,4 @@
+interface:
+  display_name: "Atomic Commit Guard"
+  short_description: "按功能单位自动提交，保护源码可回溯"
+  default_prompt: "Use $atomic-commit-guard to implement this request by feature unit, verifying and committing after each unit."
